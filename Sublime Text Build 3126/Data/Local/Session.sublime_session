@@ -1,0 +1,282 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ali",
+						"align-self"
+					],
+					[
+						"text",
+						"text-align"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Ravi/Desktop/Html/html/bootstrap.html",
+					"settings":
+					{
+						"buffer_size": 2100,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n<meta name=\"author\" content=\"\" />\n<meta name=\"Keywords\" content=\"\" />\n<meta name=\"Description\" content=\"\" />\n<title>Arka Technologies</title>\n<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\"/>\n<link type=\"text/css\" href=\"menu.css\" rel=\"stylesheet\" />\n<script type=\"text/javascript\">var _siteRoot='index.html',_root='index.html';</script>\n<script type=\"text/javascript\" src=\"js/jquery.js\"></script>\n<script type=\"text/javascript\" src=\"js/scripts.js\"></script>\n<script type=\"text/javascript\" src=\"jquery.js\"></script>\n<script type=\"text/javascript\" src=\"menu.js\"></script>\n<style type=\"text/css\">\n<!--\n.style8 {\n\tcolor: #1A50B8\n}\na:link {\n\ttext-decoration: none;\n}\na:visited {\n\ttext-decoration: none;\n}\na:hover {\n\ttext-decoration: none;\n}\na:active {\n\ttext-decoration: none;\n}\ndiv#menu {\n\tmargin:5px auto;\n}\ndiv#copyright {\n\ttext-align:center;\n\tfont:12px 'Trebuchet MS';\n\tcolor:#fff;\n\ttext-indent:0px;\n\tpadding:0px 0 0 0;\n\tvisibility:visible;\n}\ndiv#copyright a {\n\tcolor:#00bfff;\n}\ndiv#copyright a:hover {\n\tcolor:#fff;\n}\n-->\n</style>\n<style type=\"text/css\"></style>\n</head>\n<body>\n<div id=\"contain\">\n  <div id=\"header\">\n    <div class=\"headtop\"></div>\n    <div id=\"toplinks\">\n <div id=\"toplinks_inner\"> <A href=\"index.html\">Home</A> | <A href=\"#\">FAQ's</A> | <A href=\"contactus.html\">Contact Us</A></div>\n    </div>\n    <A href=\"#\"><IMG src=\"images/logo.gif\" border=0 ></A>\n    <div id=\"navcontainer\" >\n <div id=\"menu\">\n \n   <ul class=\"menu\">\n     <li><A class=parent href=\"#\"><span>Corporate&nbsp;Info</span></A>\n  <ul>\n    <li><A href=\"whoweare.html\"><span>Who&nbsp;We&nbsp;Are</span></A></li>\n    <li><A href=\"differentiators.html\"><span>Arka&nbsp;Differentiator</span></A></li>\n    <li><A href=\"corporatevalue.html\"><span>Corporate&nbsp;Values</span></A></li>\n    <li><A href=\"quality.html\"><span>Quality</span></A></li>\n  </ul>\n     </li>\n     \n       <li><A href=\"#\"><span>Services</span></A>\n  <ul>\n    <li><A href=\"odc.html\"><span>Offshore&nbsp;Development&nbsp;Center</span></A></li>\n    <li><A href=\"Training.html\"><span>Corporate&nbsp;Training&nbsp;Facility</span></A></li>\n    <li><A class=parent href=\"Testing.html\"><span>Testing&nbsp;Practice</span></A>\n      <ul>\n       <li><A href=\"Testing.html\"><span>Testing&nbsp;Services</span></A></li>\n      <li><A href=\"VVServices.html\"><span>Verification&nbsp;and&nbsp;Validation</span></A></li>\n      </ul>\n      </li>\n\n  </ul>\n     </li>\n     \n     <li><A href=\"#\"><span>Product&nbsp;&amp;&nbsp;Solutions</span></A>\n  <ul>\n    <li><A class=parent href=\"healthcare.html\"><span>Healthcare</span></A>\n      <ul>\n      <!-- <li><A href=\"hospitalmanagementsystem.html\"><span>Hospital&nbsp;Management&nbsp;System&nbsp;(HoISys) </span></A></li> -->\n      <li><A href=\"telem.html\"><span>Telemedicine</span></A></li>\n      <li><A href=\"edocpack.html\"><span>eDocPack</span></A></li>   \n      </ul>\n    </li>\n    <li><A class=parent href=\"security.html\"><span>Security</span></A>\n      <ul>\n      <li><A href=\"rfidp.html\"><span>RFID&nbsp;Solutions</span></A></li>\n      <li><A href=\"AssestTracking.html\"><span>Assest&nbsp;Management</span></A></li>\n      </ul>\n    </li>\n    <li><A class=parent href=\"softwaredevelopment.html\"><span>Software&nbsp;Development</span></A>\n      <ul>\n\t\t<li><A href=\"ad.html\"><span>Application&nbsp;Development</span></A></li>\n      </ul>\n    </li>\n\t\t<li><A href=\"Lucivid.html\"><span>Video&nbsp;Conferencing&nbsp;Solutions</span></A></li>\n        <!-- <li><A href=\"compact.html\"><span>COMPACT</span></A></li> -->\n        <li><A href=\"NMS.html\"><span>NMS</span></A></li>\n  </ul>\n     </li>\n     \n    \n   \n       \n     <li><A href=\"#\"><span>Product&nbsp;Marketing</span></A>\n  <ul>\n  <li><A href=\"ibtd.html\"><span>Infrared&nbsp;Body&nbsp;Temperature&nbsp;Detector</span></A></li>\n  <li><A href=\"PassInfoSys.html\"><span>Passenger&nbsp;Information&nbsp;Display&nbsp;System</span></A></li>\n  <li><A href=\"FluidFilm.html\"><span>Fluid&nbsp;Film&nbsp;Anti&nbsp;Rust&nbsp;Products</span></A></li>\n  <!--<li><A href=\"GasPros.html\"><span>LPG&nbsp;Gas&nbsp;Power&nbsp;Generator</span></A></li>\n  <li><A href=\"GasProsWash.html\"><span>Gas&nbsp;High&nbsp;Pressure&nbsp;Washer</span></A></li>-->\n  \n  <li><A class=parent href=\"#\"><span>SAIC</span></A>\n  <ul>\n      <li><A href=\"MRDS.html\"><span>Mobile&nbsp;Radiation&nbsp;Detection&nbsp;System</span></A></li>\n      <li><A href=\"PVSS.html\"><span>Passenger&nbsp;Vehicle&nbsp;Scanning&nbsp;System</span></A></li>\n  </ul></li> \n  </ul> \n     </li>\n     <li><A href=\"Careers.html\"><span>Careers</span></A></li>\n     <li class=\"last\"><A href=\"contactus.html\"><span>Contact Us</span></A></li>\n   </ul>\n </div>\n    </div>\n  </div>\n  \n  <div id=\"header\"><div class=\"wrap\" style=\"WIDTH: 99.96%; HEIGHT: 219px\">\n  <div id=\"slide-holder\" style=\"WIDTH: 97.3%; HEIGHT: 222px\">\n   <div id=\"slide-runner\" style=\"WIDTH: 102.38%; HEIGHT: 218px\"> <IMG class=slide id=slide-img-1 style=\"LEFT: -10px; WIDTH: 100.73%; TOP: -2px; HEIGHT: 193px\" height=167 alt=\"\" src=\"images/photo1.jpg\" > <IMG class=slide id=slide-img-2 style=\"LEFT: 0px; WIDTH: 101.34%; TOP: -2px; HEIGHT: 186px\" height=166 alt=\"\" src=\"images/photo2.jpg\" > <IMG class=slide id=slide-img-3 style=\"LEFT: -36px; WIDTH: 100.73%; TOP: -2px; HEIGHT: 193px\" height=170 alt=\"\" src=\"images/photo3.jpg\" > <IMG class=slide id=slide-img-4 style=\"LEFT: 5px; WIDTH: 100.92%; TOP: -2px; HEIGHT: 187px\" height=166 alt=\"\" src=\"images/photo4.jpg\" > <IMG class=slide id=slide-img-5 style=\"LEFT: -117px; WIDTH: 106.05%; TOP: -2px; HEIGHT: 179px\" height=166 alt=\"\" src=\"images/photo5.jpg\" > <IMG class=slide id=slide-img-6 style=\"LEFT: -117px; WIDTH: 100.05%; TOP: -2px; HEIGHT: 179px\" height=166 alt=\"\" src=\"images/photo6.jpg\" >\n     <div id=\"slide-controls\" style=\"LEFT: 0px; WIDTH: 101.45%; TOP: 164px; HEIGHT: 46px\">\n  <p id=\"slide-client\" class=\"text\"><strong> </strong><span></span></p>\n  <p id=\"slide-desc\" class=\"text\"></p>\n  <p id=\"slide-nav\"></p>\n     </div>\n   </div><!--content featured gallery here -->\n </div>\n <script type=\"text/javascript\">\n      if(!window.slider)varslider={};slider.data=[{\"id\":\"slide-img-1\",\"client\":\"\",\"desc\":\"\"},{\"id\":\"slide-img-2\",\"client\":\"\",\"desc\":\"\"},{\"id\":\"slide-img-3\",\"client\":\"\",\"desc\":\"\"},{\"id\":\"slide-img-4\",\"client\":\"\",\"desc\":\"\"},{\"id\":\"slide-img-5\",\"client\":\"\",\"desc\":\"\"},{\"id\":\"slide-img-6\",\"client\":\"\",\"desc\":\"\"}];\n   </script>\n  </div></div>\n  <div id=\"content\">\n    <div class=\"rightsubmenu\">\n <div id=\"rightcol\">\n   <div class=\"rightpnl\">\n     <h3>NEWS</h3>\n   </div>\n   <div id=\"navcontainerr\">\n     <p> </p>\n     <p> </p>\n     <p><!--ul>\n   <li><a href=\"#\">Link 1</a></li>\n   <li><a href=\"#\">Link 2</a></li>\n   <li><a href=\"#\">Link 3</a></li>\n   <li><a href=\"#\">Link 4</a></li>\n   <li><a href=\"#\">Link 5</a></li>\n   <li><a href=\"#\">Link 6</a></li>\n </ul>\n <ul>\n   <li><a href=\"#\">Link 1</a></li>\n   <li><a href=\"#\">Link 2</a></li>\n   <li><a href=\"#\">Link 3</a></li>\n   <li><a href=\"#\">Link 4</a></li>\n   <li><a href=\"#\">Link 5</a></li>\n   <li><a href=\"#\">Link 6</a></li>\n </ul>\n \n <ul>\n </ul-->\n     </p>\n   </div>\n </div>\n    </div>\n    <div class=\"leftsubcontent\">\n <div class=\"maintext\"> <strong>Arka</strong> is a pure-play IT outsourcing, software implementation, integration consultancy and Total Solution Security Integrator with superior value-priced services and reliable delivery for both private and government sector clients. <strong>Arka</strong>'s services are offered  in Healthcare , Enterprise Security and application development on a project- or strategic-staffing basis, in both custom and enterprise resource planning (ERP) package environments, and across all technology platforms, operating systems and infrastructures.<br >\n   <br >\n   <strong>Arka</strong> assesses your security challenges, and defines, achieves, and maintains security objectives to provide the best protection for your specific risks using most advanced technology, high-end security equipment and systems.<br >\n   <br >\n   For Healthcare industry, we create solutions that effectively meet the business requirements of organizations in all facets of the healthcare value chain. <br >\n   <br >\n </div>\n <div class=\"two-columns\" align=\"center\">\n  <div class=\"columnA\" style=\"height: 229px\">\n     <div class=\"title orange\">\n  <h2>Services</h2>\n     </div>\n     <div class=\"contentbox\" style=\"LEFT: 0px; WIDTH: 100%; TOP: 45px; HEIGHT: 171px\">\n  <ul type=\"square\">\n  <li><A href=\"odc.html\"><span>Offshore Development Center</span></A>\n    <li><A href=\"Training.html\"><span>Corporate&nbsp;Training&nbsp;Facility</span></A>\n    <li><A href=\"Testing.html\"><span>Testing&nbsp;Practice</span></A></li>\n  </ul><br > \n  <br >\n         <br > \n         <br > \n         <br > \n         <br > \n         <br > \n         <br > \n         <div class=\"readmore\"><A href=\"odc.html\">Read More..</A></div>\n     </div>\n   </div>\n   \n   <div class=\"columnA\" style=\"height: 229px\">\n     <div class=\"title blue\">\n  <h2>Product&nbsp;&amp;&nbsp;Solutions</h2>\n     </div>\n     <div class=\"contentbox\" style=\"LEFT: 0px; WIDTH: 100%; TOP: 45px; HEIGHT: 171px\">\n  <ul type=\"square\">\n  <li><A class=parent href=\"healthcare.html\"><span>Healthcare</span></A>\n      <ul>\n\t\t<!--<li><A href=\"hospitalmanagementsystem.html\"><span>Hospital Management System</span></A> -->\n\t\t<li><A href=\"telem.html\"><span>Telemedicine</span></A>\n\t\t<li><A href=\"edocpack.html\"><span>eDocPack</span></A></li>  \n      </ul>\n      \n      <li><A class=parent href=\"security.html\"><span>Security</span></A>\n      <ul>\n      <li><A href=\"rfidp.html\"><span>RFID Park</span></A>\n      <li><A href=\"AssestTracking.html\"><span>Asset Management</span></A></li>\n      </ul>\n      \n    <li><A class=parent href=\"softwaredevelopment.html\"><span>Software Development</span></A>\n      <ul>\n   <li><A href=\"ad.html\"><span>Application Development</span></A></li>\n    </ul>\n    \n   <li><A class=parent href=\"Lucivid.html\"><span>Video Conferencing Solutions</span></A>\n    \n    \n    <!-- <li><A class=parent href=\"compact.html\"><span>Compact</span></A></li> -->\n        </li>\n        <li><A class=parent href=\"NMS.html\"><span>NMS</span></A></li>\n    \n  </ul><br >\n  <div class=\"readmore\"><A href=\"healthcare.html\">Read More..</A></div>\n     </div>\n   </div>\n  \n   <div class=\"columnA\" style=\"height: 229px\">\n     <div class=\"title green\">\n  <h2>Product Marketing</h2>\n     </div>\n     <div class=\"contentbox\" style=\"LEFT: 0px; WIDTH: 100%; TOP: 45px; HEIGHT: 171px\">\n  <ul type=\"square\">\n  \n <li style=\"text-align: left\"><A href=\"ibtd.html\"><span>Infrared&nbsp;Body&nbsp;Temperature&nbsp; \n  Detector</span></A>\n  <li style=\"text-align: left\"><A href=\"PassInfoSys.html\"><span>Passenger&nbsp;Information&nbsp; \n  Display&nbsp;System</span></A>\n  <li style=\"text-align: left\"><A href=\"FluidFilm.html\"><span>Fluid&nbsp;Film&nbsp;Anti&nbsp;Rust&nbsp;Products</span></A>\n  <!--<li><A href=\"#\"><span>Automatic&nbsp;Gas&nbsp;Metering&nbsp;System</span></A>\n  <li><A href=\"#\"><span>LPG&nbsp;Gas&nbsp;Power&nbsp;Generator</span></A>\n  <li><A href=\"#\"><span>Gas&nbsp;High&nbsp;Pressure&nbsp;Spray</span></A>\n  <li><A href=\"#\"><span>GPSV&nbsp;Solutions</span></A> -->   \n  \n  <li style=\"text-align: left\"><A class=parent href=\"#\"><span>SAIC</span></A>\n  <ul>\n      <li style=\"text-align: left\"><A href=\"MRDS.html\"><span>Mobile&nbsp;Radio&nbsp;Active&nbsp; \n    Material&nbsp;Detector</span></A>\n      <li style=\"text-align: left\"><A href=\"PVSS.html\"><span>Vehicle&nbsp;Scanning&nbsp;Machine</span></A></li>\n  </ul></li> \n  \n  </ul><br ><br >\n  <div class=\"readmore\"><A href=\"rfidp.html\">Read More..</A></div>\n     </div>\n   </div>\n </div>\n    </div>\n    <br ><br ><br ><br ><br >\n  </div>\n  <div id=\"footer\" >\n    <p>Copyright © 2010 Arkatechnologies | <A style=\"COLOR: #fff\" href=\"disclaimer.html\" >Disclaimer</A> <!--Design by <a href=\"#\">Pramod</a-->\n    </p><!--div id=\"copyright\"><a href=\"mailto:pramod.kalasad@gmail.com\">designed & Developed by Kalasindhu</a></div-->\n  </div>\n</div>\n\n\n</body>\n</html>\n",
+					"file": "/C/Users/Ravi/Desktop/Html/html/page.html",
+					"file_size": 12468,
+					"file_write_time": 131294466542475609,
+					"settings":
+					{
+						"buffer_size": 12178,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Ravi/Desktop/Html/second.html",
+				"/C/Users/Ravi/Desktop/Html/frame_c.htm",
+				"/C/Users/Ravi/Desktop/Html/frame_b.htm",
+				"/C/Users/Ravi/Desktop/Html/frame_a.htm",
+				"/C/Users/Ravi/Desktop/Html/first.html"
+			],
+			"find":
+			{
+				"height": 54.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"250px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Ravi/Desktop/Html/html/bootstrap.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2100,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2027,
+										2027
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2088.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Ravi/Desktop/Html/html/page.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4626,
+										4630
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4202.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 44.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,800,128,128,946",
+			"project": "",
+			"replace":
+			{
+				"height": 84.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
